@@ -5,6 +5,12 @@ import PackageDescription
 
 let package = Package(
     name: "swift-log-file",
+    platforms: [
+        .iOS(.v13),
+        .tvOS(.v13),
+        .macOS(.v10_15),
+        .watchOS(.v6),
+    ],
     products: [
         .library(
             name: "FileLogging",
