@@ -1,7 +1,7 @@
 
 import Foundation
-@_exported import Logging
-@_exported import XCGLogger
+import Logging
+import XCGLogger
 
 public struct XCGLogging {
     let logger:XCGLogger
