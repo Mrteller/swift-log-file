@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "swift-log",
-        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "package": "Logging",
+        "repositoryURL": "https://github.com/shaps80/Logging.git",
         "state": {
           "branch": null,
-          "revision": "173f567a2dfec11d74588eea82cecea555bdc0bc",
-          "version": "1.4.0"
+          "revision": "90a9ebf8c666a930da1e9154f22fba265294fe2a",
+          "version": "1.8.0"
         }
       },
       {
