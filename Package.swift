@@ -19,7 +19,7 @@ let package = Package(
             name: "FileLogging",
             dependencies: [
                 "XCGLogger",
-                .product(name: "Logging", package: "swift-log")
+                .product(name: "Logging", package: "Logging)
             ]),
         .testTarget(
             name: "swift-log-fileTests",
