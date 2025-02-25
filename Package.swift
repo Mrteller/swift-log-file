@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/shaps80/Logging.git", from: "1.0.0"),
-        .package(url: "https://github.com/Mrteller/XCGLogger.git", from: "7.0.0")
+        .package(url: "https://github.com/DaveWoodCom/XCGLogger.git", from: "7.0.0")
     ],
     targets: [
         .target(
